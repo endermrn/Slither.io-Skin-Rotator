@@ -13,3 +13,6 @@ This all go to http://slither.io/ and Fun :)
 3º Ir a tampermonkey y seleccione añadir script                                                                                         
 4º copiar el codigo  y guardar                                                                                                          
 Y esto es todo ve a http://slither.io/ y a jugar :)                                                                                      
+
+#Contact/Contacto
+Skype: endermrn_hacking
