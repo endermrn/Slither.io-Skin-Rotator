@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Slither.io skin Changer
+// @name         Slither.io skin Rotator
 // @version      1.0
-// @description  Slither.io skin Changer
+// @description  Slither.io skin Rotator
 // @author       Endermrn
 // @match        http://slither.io/
 // @grant        none
